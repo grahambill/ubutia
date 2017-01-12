@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>ubutia | Elements</title>
+        <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo-icon.png"/>
+
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
+
+        <link href="assets/css/owl.carousel.css" rel="stylesheet">
+        <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
+
+        <link href="assets/css/magnific-popup.css" rel="stylesheet">
+
+        <link href="assets/css/style.css" rel="stylesheet">
+
+
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <div id="menu-item" class="menu-item hide-menu">
+            <div class="container">
+                <ul>
+                    <a href="index.html"><li>home</li></a>
+                    <a href="index.html#about"><li>about</li></a>
+                    <a href="index.html#expertise"><li>expertise</li></a>
+                    <a href="index.html#workstation"><li>workstation</li></a>
+                    <a href="index.html#team"><li>team</li></a>
+                    <a href="index.html#contact"><li>contact</li></a>
+                    <a href="elements.html"><li>Elements</li></a>
+                </ul>
+            </div>
+        </div>
+        <div class="main element">
+            <nav class="navbar navbar-default navbar-ubutia">
+                <div class="container">
+                    <div class="navigation-bar">
+                        <div class="row">
+                            <div class="col-xs-6">
+                                <div class="logo">
+                                     <a href="index.html"><span class="ubutia-icon"></span></a>
+                                </div>
+                            </div>
+                            <div class="col-xs-6 text-right">
+                                <div class="menu m">
+                                    <a href="#"><span class="ion-navicon _ion-android-menu"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2 class="title mt80">Element</h2>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="headings">
+                            <h1>Heading 1 with paragraph</h1>
+                            <p>
+                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.  
+                            </p>
+                            <h2>Heading 2 with paragraph</h2>
+                            <p>
+                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. 
+                            </p>
+                            <h3>Heading 3 with paragraph</h3>
+                            <p>
+                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. 
+                            </p>
+                        </div>
+                        <div class="social-icons">
+                            <h2>Social icon</h2>
+                            <ul>
+                                <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                <a href="#"><li><span class="ion-social-pinterest"></span></li></a>
+                            </ul>
+                        </div>
+                        <div class="blockquote mt80">
+                            <h2>Blockquote</h2>
+                            <p>
+                                Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better.
+                            </p>
+                        </div>
+                        <div class="cta mt80">
+                            <h2>cta</h2>
+                            <a class="btn ubutia-btn solid mr60" href="#">Active</a>
+                            <a class="btn ubutia-btn solid small-btn" href="#">fit+small</a>
+                            <br>
+                            <a class="btn ubutia-btn mr60" href="#">Default</a>
+                            <a class="btn ubutia-btn small-btn" href="#">fit+small</a>
+                        </div>
+                        <div class="ubutia-card-section mt80">
+                            <h2>Workstations</h2>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="ubutia-card">
+                                        <div class="ubutia-card-header">
+                                            <img class="img-responsive" src="assets/images/4.jpg">
+                                        </div>
+                                        <div class="ubutia-card-content">
+                                            <h3>Creative Business Cup</h3>
+                                            <p>
+                                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="ubutia-card">
+                                        <div class="ubutia-card-header">
+                                            <img class="img-responsive" src="assets/images/5.jpg">
+                                        </div>
+                                        <div class="ubutia-card-content">
+                                            <h3>Creative Cover Design</h3>
+                                            <p>
+                                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="ubutia-card">
+                                        <div class="ubutia-card-header">
+                                            <img class="img-responsive" src="assets/images/6.jpg">
+                                        </div>
+                                        <div class="ubutia-card-content">
+                                            <h3>Creative Namecard</h3>
+                                            <p>
+                                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <h2 class="mt80">Team members</h2>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="ubutia-card">
+                                        <div class="ubutia-card-header">
+                                            <img class="img-responsive" src="assets/images/8.jpg">
+                                        </div>
+                                        <div class="ubutia-card-content">
+                                            <h3>Rosa Ly</h3>
+                                            <p>
+                                               Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                            </p>
+                                            <div class="social-icons">
+                                                <ul>
+                                                    <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                                    <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="ubutia-card">
+                                        <div class="ubutia-card-header">
+                                            <img class="img-responsive" src="assets/images/9.jpg">
+                                        </div>
+                                        <div class="ubutia-card-content">
+                                            <h3>Eva Ly</h3>
+                                            <p>
+                                               Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun. 
+                                            </p>
+                                            <div class="social-icons">
+                                                <ul>
+                                                    <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                                    <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <div class="ubutia-card">
+                                        <div class="ubutia-card-header">
+                                            <img class="img-responsive" src="assets/images/10.jpg">
+                                        </div>
+                                        <div class="ubutia-card-content">
+                                            <h3>Graham Bill</h3>
+                                            <p>
+                                                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consetetur,adipisivelit, sed quia non numquam eius modi tempora incidun.
+                                            </p>
+                                            <div class="social-icons">
+                                                <ul>
+                                                    <a href="#"><li><span class="ion-social-facebook"></span></li></a>
+                                                    <a href="#"><li><span class="ion-social-twitter"></span></li></a>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <h2 class="mt80">Form</h2>
+                <form class="mb80">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <input type="text" class="form-control" placeholder="Name">
+                        </div>
+                        <div class="col-sm-6">
+                            <input type="email" class="form-control" placeholder="Email">
+                        </div>
+                        <div class="col-sm-12">
+                            <select class="form-control">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                            </select>
+                            <!-- <input type="text" class="form-control" placeholder="-Select a catagory"> -->
+                        </div>
+                        <div class="col-sm-12">
+                            <textarea class="form-control" rows="8" placeholder="Message"></textarea>
+                        </div>
+                        <div class="col-sm-12">
+                            <button type="submit" class="btn ubutia-btn mr60">Send Button</button>
+                            <button type="reset" class="btn ubutia-btn">Reset</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <footer class="footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p> Handcrafted with <span class="fa fa-adjust"></span> by <a href="https://www.freshdesignweb.com/">freshDesignweb</a></p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        <script src="assets/js/jquery-3.1.1.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="https://use.fontawesome.com/55b73bf748.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/script.js"></script>
+    </body>
+</html>
