@@ -2,7 +2,7 @@
 uButia is a free bootstrap template created by freshdesignweb teams. The template includes the complete source files for download such as HTML5, CSS, CSS3 and JavaScript for easy customization. 
 # Theme Demo
 <img src="https://github.com/grahambill/ubutia/blob/master/ubutia.jpg?raw=true">
-<a href="https://www.freshdesignweb.com/demo/ubutia/">View Demo</a>
+<a href="https://www.freshdesignweb.com/demo/ubutia/">View Demo</a> <a href="https://github.com/grahambill/ubutia/archive/master.zip">Download</a>
 
 There are so many awesome bootstrap templates that have created amazing free resources using Bootstrap. Those free download resources wanted to help spread the word and share their work with our readers. So, we compiled a list of free frontend templates that we thought are beautiful and worth sharing. 
 
